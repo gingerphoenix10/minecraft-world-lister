@@ -1,2 +1,2 @@
-# minecraft-world-lister
-A python script that shows all your minecraft worlds in minecraft bedrock edition and minecraft java edition, with some extra extra information
+# Minecraft World Lister
+A Python script that shows all your Minecraft worlds in Minecraft Bedrock Edition and Minecraft Java Edition, with some extra extra information.
